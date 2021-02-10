@@ -4,7 +4,7 @@ I’m in my fourth year at the [University of Central Florida](https://ucf.edu).
 
 I recently started as a Research Assistant in the [NLP Group](http://www.nlp.cs.ucf.edu/) at UCF. 
 
-I’m involved in a few student organizations on campus. Currently, I’m the President of the Association for Computing Machinery ([ACM](http://ucf.acm.org) & ACM - Women in Tech ([ACM-W](https://ucfacmw.org)). I’m also the Vice President of [AI@UCF](https://ucfai.org).
+I’m involved in a few student organizations on campus. Currently, I’m the President of the Association for Computing Machinery ([ACM])(http://ucf.acm.org) & ACM - Women in Tech ([ACM-W](https://ucfacmw.org)). I’m also the Vice President of [AI@UCF](https://ucfai.org).
 
 <!--
 **h3rmi0n3/h3rmi0n3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
