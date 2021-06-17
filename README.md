@@ -9,13 +9,13 @@ I recently started a [blog](https://chloegeller.com/post) on my website where I'
 During my time at UCF I've held a few positions, and have been involved in student organizations on campus.
 
 *2020 - 2021:*
-- President of the Association for Computing Machinery [(ACM)](http://ucf.acm.org).
-- President of the Association for Computing Machinery - Women in Tech [(ACM-W)](https://ucfacmw.org).
+- President of the Association for Computing Machinery [(ACM)](http://ucf.acm.org) at UCF.
+- President of ACM - Women in Tech [(ACM-W)](https://ucfacmw.org) at UCF.
 - Vice President of [AI@UCF](https://ucfai.org).
 - I held an undergrad research position in the [NLP Group](http://www.nlp.cs.ucf.edu/) at UCF.
   
 *2019 - 2020:*
-- Secretary, and Mentorship Director of [ACM-W](https://ucfacmw.org).
+- Secretary, and Mentorship Director of [ACM-W](https://ucfacmw.org) at UCF.
 - Communications Director of [AI@UCF](https://ucfai.org).
 - Resident Assistant, [Housing and Residence Life](https://www.housing.ucf.edu/employment/resident-assistant/).
 
