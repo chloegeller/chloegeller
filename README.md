@@ -1,8 +1,8 @@
 ### Hey there, I’m Chloë! 👋 
 
-I'm currently in the *MIT Summer Research Program - Bio* ([**MSRP-Bio**](https://bcs.mit.edu/diversity/mit-summer-research-program-biology-and-brain-and-cognitive-neuroscience-msrp-bio)), and doing research in the *Computation, Cognition, and Development* ([**CoCoDev**](https://cocodev.org)) Lab at Harvard.
+I'm currently a Research Assistant in the *Computation, Cognition, and Development* ([**CoCoDev**](https://cocodev.org)) **Lab** at Harvard. During the Summer of 2021, I was in the *MIT Summer Research Program - Bio* ([**MSRP-Bio/CBMM**](https://bcs.mit.edu/diversity/mit-summer-research-program-biology-and-brain-and-cognitive-neuroscience-msrp-bio)) as a Research Intern in the **CoCoDev Lab**.
 
-I'm in my third year at the [University of Central Florida](https://www.ucf.edu/) (UCF), majoring in Computer Science and minoring in Math, Robotics, and Cognitive Sciences.
+I'm in my final year at the [University of Central Florida](https://www.ucf.edu/) (UCF), majoring in Computer Science and minoring in Math, Robotics, and Cognitive Sciences.
 
 I recently started a [blog](https://chloegeller.com/post) on my website where I'll be discussing neurodivergence, and how I perceive the world. 
 
