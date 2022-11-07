@@ -1,10 +1,10 @@
 ### Hey there, I’m Chloë! 👋 
 
-I'm currently a Research Assistant in the *Computation, Cognition, and Development* ([**CoCoDev**](https://cocodev.org)) **Lab** at Harvard. During the Summer of 2021, I was in the *MIT Summer Research Program - Bio* ([**MSRP-Bio/CBMM**](https://bcs.mit.edu/diversity/mit-summer-research-program-biology-and-brain-and-cognitive-neuroscience-msrp-bio)) as a Research Intern in the **CoCoDev Lab**.
+I'm currently a Post-Bac in the *Cognitive and Neural Computation Lab* ([**CNCL**](http://cncl.yale.edu/)) at Yale.
 
-I recently graduated from the [University of Central Florida](https://www.ucf.edu/) (UCF) with a **B.S in Computer Science** and minors in Math, Robotics, and Cognitive Sciences. I am actively looking for Machine Learning, Data, and/or Software Engineering positions.
+Previously, I was an Undergraduate Research Assistant in the *Computation, Cognition, and Development* ([**CoCoDev**](https://cocodev.org)) **Lab** at Harvard. During the Summer of 2021, I was in the *MIT Summer Research Program - Bio* ([**MSRP-Bio/CBMM**](https://bcs.mit.edu/diversity/mit-summer-research-program-biology-and-brain-and-cognitive-neuroscience-msrp-bio)) as a Research Intern in the **CoCoDev Lab**.
 
-I recently started a [blog](https://chloegeller.com/post) on my website where I'll be discussing neurodivergence, and how I perceive the world. 
+I graduated from the [University of Central Florida](https://www.ucf.edu/) (UCF) with a **B.S in Computer Science** and minors in Math, Robotics, and Cognitive Sciences. I am actively looking for Machine Learning, Data, and/or Software Engineering positions.
 
 During my time at UCF I held a few positions, and was involved in student organizations on campus.
 
